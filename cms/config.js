@@ -4,7 +4,7 @@ export default {
     name: 'git-gateway',
     // name: 'github',
     // repo: 'VMBindraban/personal-hr',
-    // branch: 'main',
+    branch: 'main',
   },
   media_folder: 'public/img',
   public_folder: 'img',
