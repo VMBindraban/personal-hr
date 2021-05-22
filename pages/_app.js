@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }) {
   const { attributes } = pageProps;
   const router = useRouter();
 
-  if (router.pathname === '/_error') {
+  if (['/_error', '/admin'].includes(router.pathname)) {
     return <Component {...pageProps} />;
   }
 

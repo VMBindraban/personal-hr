@@ -1,7 +1,10 @@
 export default {
   cms_manual_init: true,
   backend: {
-    name: 'git-gateway',
+    // name: 'git-gateway',
+    name: 'github',
+    repo: 'VMBindraban/personal-hr',
+    branch: 'main',
   },
   media_folder: 'public/img',
   public_folder: 'img',
