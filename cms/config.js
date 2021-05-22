@@ -16,13 +16,23 @@ export default {
           file: 'content/pages/home.md',
           fields: [
             {
-              label: 'Hero Title',
-              name: 'hero_title',
+              label: 'Page title',
+              name: 'page_title',
               widget: 'string',
             },
             {
-              label: 'Hero Description',
-              name: 'hero_description',
+              label: 'Page description (SEO)',
+              name: 'page_description',
+              widget: 'string',
+            },
+            {
+              label: 'Slider title',
+              name: 'slider_title',
+              widget: 'string',
+            },
+            {
+              label: 'Slider text',
+              name: 'slider_text',
               widget: 'markdown',
             },
           ],
