@@ -7,7 +7,7 @@ const ContactEmployer = ({ attributes }) => {
         </div>
         <div class="row">
           <div class="col-lg-6 col-md-12 col-xs-12 col-lg-offset-3">
-            <form id="contact_form" name="contact_form" method="post">
+            <form id="contact_form" name="contact_form" method="post" netlify>
               <div class="form-group">
                 <label for="name">Je naam</label>
                 <input
