@@ -1,0 +1,45 @@
+Homepage:
+
+- Revslider vervangen met vaste blok van about pagina, op elke pagina
+- Welcome to digency
+
+Iconen vervangen met:
+- .flaticon-business
+- .flaticon-cup
+- .flaticon-users
+
+
+Over PHR:
+
+- vaste blok van about pagina
+- Why Choose Us blok en foto aan rechter kant
+
+Diensten - werkgever:
+- vaste blok van about pagina
+- Welcome to digency zonder punten
+- Why Choose Us block zonder rechterkant, in het midden
+- Looking For Exclusive Services? block als risico-scan, mail openen met onderwerp "Riscoscan aanvragen"
+- Personlijke offerte (contact formulier)
+	- Naam
+	- Email
+	- Tel
+	- Aantal medewerkers
+	- Diensten (dropdown + overige)
+        - Aanvullende informatie
+
+Diensten - particulier:
+- vaste blok van about pagina
+- Welcome to digency zonder punten
+- Why Choose Us block zonder rechterkant, in het midden
+- Personlijke offerte (contact formulier)
+	- Naam
+	- Email
+	- Tel
+	- Werkgever
+	- Diensten (dropdown + overige)
+        - Vraag
+
+Contact:
+- vaste blok van about pagina
+- Contact pagina overnemen
+
