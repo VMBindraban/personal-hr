@@ -33,7 +33,7 @@ const HeaderComponent = () => {
                   <a href="/">Home</a>
                 </li>
                 <li>
-                  <a href="about">Over personal HR</a>
+                  <a href="over-phr">Over personal HR</a>
                 </li>
                 <li className="dropdown">
                   <a href="#">Diensen & kosten</a>

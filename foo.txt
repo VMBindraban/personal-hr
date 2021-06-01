@@ -1,18 +1,3 @@
-Homepage:
-
-- Revslider vervangen met vaste blok van about pagina, op elke pagina
-- Welcome to digency
-
-Iconen vervangen met:
-- .flaticon-business
-- .flaticon-cup
-- .flaticon-users
-
-
-Over PHR:
-
-- vaste blok van about pagina
-- Why Choose Us blok en foto aan rechter kant
 
 Diensten - werkgever:
 - vaste blok van about pagina
