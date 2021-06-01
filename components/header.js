@@ -10,11 +10,9 @@ const HeaderComponent = () => {
       <header className="main-header sticky-header">
         <div className="container-fluid clearfix">
           <div className="logo">
-            <figure>
-              <a href="index.html">
-                <img src="images/logo.png" alt="logo personal-hr" />
-              </a>
-            </figure>
+            <a href="index.html">
+              <img src="img/logo_full_small.png" alt="logo personal-hr" />
+            </a>
           </div>
           <nav className="main-menu">
             <div className="navbar-header">
