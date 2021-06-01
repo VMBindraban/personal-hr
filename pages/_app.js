@@ -2,7 +2,6 @@ import Head from 'next/head';
 import { useRouter } from 'next/router';
 
 import HeaderComponent from '../components/header';
-import ScriptComponent from '../components/script';
 import FooterComponent from '../components/footer';
 
 function MyApp({ Component, pageProps }) {
@@ -36,7 +35,7 @@ function MyApp({ Component, pageProps }) {
         <FooterComponent />
       </div>
 
-      <ScriptComponent />
+      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     </>
   );
 }

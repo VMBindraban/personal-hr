@@ -2,11 +2,9 @@ export default {
   cms_manual_init: true,
   backend: {
     name: 'git-gateway',
-    // name: 'github',
-    // repo: 'VMBindraban/personal-hr',
     branch: 'main',
   },
-  media_folder: 'public/img',
+  media_folder: 'public/upload',
   public_folder: 'img',
   collections: [
     {
@@ -29,14 +27,14 @@ export default {
               widget: 'string',
             },
             {
-              label: 'Slider title',
-              name: 'slider_title',
+              label: 'Banner title',
+              name: 'banner_title',
               widget: 'string',
             },
             {
-              label: 'Slider text',
-              name: 'slider_text',
-              widget: 'markdown',
+              label: 'Banner image',
+              name: 'banner_image',
+              widget: 'image',
             },
           ],
         },

@@ -1,13 +1,11 @@
-import RevSliderComponent from '../components/revSlider';
 import WelcomeComponent from '../components/welcome';
-import TestimonialsComponent from '../components/testimonials';
+import BannerComponent from '../components/banner';
 
 const HomePage = ({ attributes }) => {
   return (
     <>
-      <RevSliderComponent attributes={attributes} />
+      <BannerComponent attributes={attributes} />
       <WelcomeComponent attributes={attributes} />
-      <TestimonialsComponent attributes={attributes} />
     </>
   );
 };
