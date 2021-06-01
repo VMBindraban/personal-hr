@@ -14,7 +14,7 @@ export default {
       name: 'page_description',
       widget: 'string',
       required: false,
-      hint: 'Optional, for SEO (google)',
+      hint: 'For SEO (google)',
     },
     {
       label: 'Banner title',
@@ -41,7 +41,7 @@ export default {
       label: 'Section 1 icon',
       name: 'section1_icon',
       widget: 'string',
-      hint: 'Options: headphones ,photo-camera ,diamond ,business ,light ,house-sketch ,left-arrow ,right-arrow ,cup ,trophy ,users ,layers ,computer ,vector ,bar-chart ,access-denied',
+      hint: 'Options: headphones photo-camera diamond business light house-sketch left-arrow right-arrow cup trophy users layers computer vector bar-chart access-denied',
     },
     {
       label: 'Section 1 title',
@@ -57,7 +57,7 @@ export default {
       label: 'Section 2 icon',
       name: 'section2_icon',
       widget: 'string',
-      hint: 'Options: headphones ,photo-camera ,diamond ,business ,light ,house-sketch ,left-arrow ,right-arrow ,cup ,trophy ,users ,layers ,computer ,vector ,bar-chart ,access-denied',
+      hint: 'Options: headphones photo-camera diamond business light house-sketch left-arrow right-arrow cup trophy users layers computer vector bar-chart access-denied',
     },
     {
       label: 'Section 2 title',
@@ -73,7 +73,7 @@ export default {
       label: 'Section 3 icon',
       name: 'section3_icon',
       widget: 'string',
-      hint: 'Options: headphones ,photo-camera ,diamond ,business ,light ,house-sketch ,left-arrow ,right-arrow ,cup ,trophy ,users ,layers ,computer ,vector ,bar-chart ,access-denied',
+      hint: 'Options: headphones photo-camera diamond business light house-sketch left-arrow right-arrow cup trophy users layers computer vector bar-chart access-denied',
     },
     {
       label: 'Section 3 title',

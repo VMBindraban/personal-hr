@@ -1,5 +1,6 @@
 import home from './home';
 import aboutUs from './about-us';
+import servicesEmployer from './services-employer';
 
 export default {
   cms_manual_init: true,
@@ -13,7 +14,7 @@ export default {
     {
       name: 'pages',
       label: 'Pages',
-      files: [home, aboutUs],
+      files: [home, aboutUs, servicesEmployer],
     },
   ],
 };

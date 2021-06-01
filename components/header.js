@@ -39,10 +39,10 @@ const HeaderComponent = () => {
                   <a href="#">Diensen & kosten</a>
                   <ul>
                     <li>
-                      <a href="diensten-en-kosten/werkgevers">Werkgevers / ondernemers</a>
+                      <a href="diensten-werkgever">Werkgevers / ondernemers</a>
                     </li>
                     <li>
-                      <a href="diensten-en-kosten/werknemers">Werknemers / particulieren</a>
+                      <a href="diensten-werknemers">Werknemers / particulieren</a>
                     </li>
                   </ul>
                 </li>

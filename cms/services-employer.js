@@ -1,7 +1,7 @@
 export default {
-  label: 'Over PHR',
-  name: 'about-us',
-  file: 'content/pages/over-phr.md',
+  label: 'Diensten werkgever',
+  name: 'services-employer',
+  file: 'content/pages/services-employer.md',
   fields: [
     // Generic
     {
@@ -45,10 +45,25 @@ export default {
       widget: 'text',
     },
     {
-      label: 'Image',
-      name: 'image',
+      label: 'CTA title',
+      name: 'cta_title',
+      widget: 'string',
+    },
+    {
+      label: 'CTA text',
+      name: 'cta_text',
+      widget: 'string',
+    },
+    {
+      label: 'CTA image',
+      name: 'cta_image',
       widget: 'image',
-      hint: 'Image right-side of the content',
+    },
+
+    {
+      label: 'Contant title',
+      name: 'contant_title',
+      widget: 'string',
     },
   ],
 };

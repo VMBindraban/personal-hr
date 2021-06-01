@@ -1,11 +1,11 @@
-const contentImageBlock = ({ attributes }) => {
+const Content = ({ attributes }) => {
   return (
     <section className="choose-us">
       <div className="container">
         <div className="section-title text-center">
           <h2>{attributes?.main_title || ''}</h2>
         </div>
-        <div className="col-lg-6 col-md-12 col-xs-12">
+        <div className="col-lg-12">
           {attributes.main_text && (
             <div className="text">
               <p>{attributes.main_text}</p>
@@ -17,12 +17,9 @@ const contentImageBlock = ({ attributes }) => {
             </div>
           )}
         </div>
-        <div className="col-lg-6 col-md-12 col-xs-12">
-          <img src={attributes.image} alt="melissa franken" />
-        </div>
       </div>
     </section>
   );
 };
 
-export default contentImageBlock;
+export default Content;

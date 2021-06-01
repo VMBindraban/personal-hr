@@ -1,5 +1,5 @@
 import BannerComponent from '../components/banner';
-import ContentImageBlock from '../components/contentImageBlock';
+import ContentImageBlock from '../components/contentImage';
 
 const AboutUsPage = ({ attributes }) => {
   return (
