@@ -69,7 +69,7 @@ export default {
             },
             {
               label: 'Section 2 icon',
-              name: 'section1_icon',
+              name: 'section3_icon',
               widget: 'string',
               hint: 'Options: headphones ,photo-camera ,diamond ,business ,light ,house-sketch ,left-arrow ,right-arrow ,cup ,trophy ,users ,layers ,computer ,vector ,bar-chart ,access-denied',
             },
@@ -85,7 +85,7 @@ export default {
             },
             {
               label: 'Section 3 icon',
-              name: 'section1_icon',
+              name: 'section3_icon',
               widget: 'string',
               hint: 'Options: headphones ,photo-camera ,diamond ,business ,light ,house-sketch ,left-arrow ,right-arrow ,cup ,trophy ,users ,layers ,computer ,vector ,bar-chart ,access-denied',
             },
