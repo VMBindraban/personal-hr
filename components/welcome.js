@@ -7,7 +7,7 @@ const WelcomeComponent = ({ attributes }, hideIcons = false) => {
             <h2>{attributes?.main_title || ''}</h2>
             <p>{attributes?.main_text || ''}</p>
           </div>
-          {!hideIcons && (
+          {hideIcons && (
             <div className="row">
               <div className="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 <div className="item-holder text-center">
