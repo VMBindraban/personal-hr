@@ -1,4 +1,4 @@
-return {
+export default {
   label: 'Home',
   name: 'home',
   file: 'content/pages/home.md',

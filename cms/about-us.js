@@ -1,4 +1,4 @@
-return {
+export default {
   label: 'Over PHR',
   name: 'about-us',
   file: 'content/pages/over-phr.md',
