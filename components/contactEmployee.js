@@ -1,6 +1,6 @@
 const ContactEmployer = ({ attributes }) => {
   return (
-    <section className="contact-section style-two">
+    <section className="contact-section style-two no-cta">
       <div className="container">
         <div className="section-title text-center">
           <h2>{attributes.contact_title}</h2>
@@ -9,12 +9,12 @@ const ContactEmployer = ({ attributes }) => {
           <div className="col-lg-6 col-md-12 col-xs-12 col-lg-offset-3">
             <form
               id="contact_form"
-              name="werkgever-formulier"
+              name="werknemer-formulier"
               method="POST"
               data-netlify="true"
               netlify-honeypot="bot-field"
             >
-              <input type="hidden" name="form-name" value="werkgever-formulier" />
+              <input type="hidden" name="form-name" value="werknemer-formulier" />
               <div className="hidden">
                 <input name="bot-field" />
               </div>
@@ -52,14 +52,14 @@ const ContactEmployer = ({ attributes }) => {
                 />
               </div>
               <div className="form-group">
-                <label for="form_employees">Aantal werknemers</label>
+                <label for="form_employer">Huidige werkgever</label>
                 <input
                   type="number"
-                  name="amount-employees"
-                  id="form_employees"
+                  name="current-employer"
+                  id="form_employer"
                   className="form-control"
                   required
-                  placeholder="Voer het aantal werknemers in"
+                  placeholder="Voer je huidige werkgever in"
                 />
               </div>
               <div className="form-group">
@@ -71,12 +71,12 @@ const ContactEmployer = ({ attributes }) => {
                 </select>
               </div>
               <div className="form-group">
-                <label for="form_info">Aanvullende informatie</label>
+                <label for="form_question">Vraag</label>
                 <textarea
-                  name="extra-info"
-                  id="form_info"
+                  name="question"
+                  id="form_question"
                   className="form-control textarea"
-                  placeholder="Vul hier aanvullende informatie in"
+                  placeholder="Vul hier vraag in"
                 ></textarea>
               </div>
               <div className="form-group form-bottom">

@@ -1,7 +1,7 @@
 export default {
-  label: 'Diensten werkgever',
-  name: 'services-employer',
-  file: 'content/pages/services-employer.md',
+  label: 'Diensten werknember',
+  name: 'services-employee',
+  file: 'content/pages/services-employee.md',
   fields: [
     // Generic
     {
@@ -43,21 +43,6 @@ export default {
       label: 'Main text',
       name: 'main_text2',
       widget: 'text',
-    },
-    {
-      label: 'CTA title',
-      name: 'cta_title',
-      widget: 'string',
-    },
-    {
-      label: 'CTA text',
-      name: 'cta_text',
-      widget: 'string',
-    },
-    {
-      label: 'CTA image',
-      name: 'cta_image',
-      widget: 'image',
     },
     {
       label: 'Contact title',

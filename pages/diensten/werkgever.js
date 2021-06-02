@@ -1,7 +1,7 @@
-import BannerComponent from '../components/banner';
-import ContentBlock from '../components/content';
-import CTABlock from '../components/cta';
-import ContactEmployer from '../components/contactEmployer';
+import BannerComponent from '../../components/banner';
+import ContentBlock from '../../components/content';
+import CTABlock from '../../components/cta';
+import ContactEmployer from '../../components/contactEmployer';
 
 const ServicesEmployerPage = ({ attributes }) => {
   return (
@@ -15,7 +15,7 @@ const ServicesEmployerPage = ({ attributes }) => {
 };
 
 export const getStaticProps = async () => {
-  const content = await import(`../content/pages/services-employer.md`);
+  const content = await import(`../../content/pages/services-employer.md`);
 
   return { props: content.default };
 };

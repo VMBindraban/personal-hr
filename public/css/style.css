@@ -489,11 +489,6 @@ li {
   width: 100%;
   z-index: 9999;
   padding: 0px 70px;
-  transition: all 500ms ease;
-  -moz-transition: all 500ms ease;
-  -webkit-transition: all 500ms ease;
-  -ms-transition: all 500ms ease;
-  -o-transition: all 500ms ease;
   box-shadow: 0 0 11px 3px #cccccc;
 }
 .fixed-header {
@@ -502,7 +497,6 @@ li {
   left: 0px;
   z-index: 9999;
   background: #ffffff;
-  transition: all 500ms ease;
   -webkit-animation-name: menu_sticky;
   animation-name: menu_sticky;
   -webkit-animation-duration: 0.6s;
@@ -515,6 +509,7 @@ li {
   position: absolute;
   top: 20px;
   left: 70px;
+  z-index: 10;
 }
 .main-header .main-menu {
   text-align: center;
@@ -542,10 +537,6 @@ li {
 .main-menu .navigation > .current ul li a {
   color: #ffffff;
 }
-.main-menu .navigation > li:hover ul,
-.main-menu .navigation > .current ul {
-  border-bottom: 1px solid #0b4696;
-}
 .main-menu .navigation > li > a {
   position: relative;
   display: block;
@@ -556,28 +547,16 @@ li {
   opacity: 1;
   padding: 32px 0px;
   text-transform: capitalize;
-  transition: all 500ms ease;
   font-family: 'Open Sans', sans-serif;
-  -moz-transition: all 500ms ease;
-  -webkit-transition: all 500ms ease;
-  -ms-transition: all 500ms ease;
-  -o-transition: all 500ms ease;
 }
 .main-menu .navigation > li > ul {
   position: absolute;
   left: 0px;
-  top: 150%;
   width: 220px;
   padding: 0px;
   z-index: 1;
   display: none;
   background: #222222;
-  border-top: 2px solid #222222;
-  transition: all 500ms ease;
-  -moz-transition: all 500ms ease;
-  -webkit-transition: all 500ms ease;
-  -ms-transition: all 500ms ease;
-  -o-transition: all 500ms ease;
 }
 .main-menu .navigation > li > ul > li {
   position: relative;
@@ -598,23 +577,16 @@ li {
   color: #ffffff;
   background: #222222;
   padding: 6px 15px;
-  transition: all 500ms ease;
   font-family: 'Open Sans', sans-serif;
-  -moz-transition: all 500ms ease;
-  -webkit-transition: all 500ms ease;
-  -ms-transition: all 500ms ease;
-  -o-transition: all 500ms ease;
 }
 .main-menu .navigation > li > ul > li > a:hover {
   color: #222222;
   background: #ffffff;
-  transition: all 500ms ease;
 }
 .main-menu .navigation > li.dropdown:hover > ul {
   visibility: visible;
   opacity: 1;
   top: 100%;
-  transition: all 500ms ease;
 }
 .main-menu .navbar-collapse > ul li.dropdown .dropdown-btn {
   display: block;
@@ -1303,6 +1275,11 @@ li {
   padding: 100px 0px;
   background: #f5f5f5;
 }
+
+.contact-section.no-cta {
+  padding-top: 0px;
+}
+
 .contact-section .left-side {
   margin-right: 50px;
 }

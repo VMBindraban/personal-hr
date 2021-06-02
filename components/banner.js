@@ -2,7 +2,7 @@ const Banner = ({ attributes }) => {
   return (
     <section
       className="page-title"
-      style={{ background: `url('${attributes.banner_image || ''}')` }}
+      style={{ background: `url('/${attributes.banner_image || ''}')` }}
     >
       <div className="container text-center">
         <div className="title">

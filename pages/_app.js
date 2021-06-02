@@ -22,11 +22,11 @@ function MyApp({ Component, pageProps }) {
         )}
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-        <link href="css/bootstrap.css" rel="stylesheet" />
-        <link href="css/responsive.css" rel="stylesheet" />
-        <link href="css/style.css" rel="stylesheet" />
-        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
-        <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+        <link href="/css/bootstrap.css" rel="stylesheet" />
+        <link href="/css/responsive.css" rel="stylesheet" />
+        <link href="/css/style.css" rel="stylesheet" />
+        <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
       </Head>
 
       <div className="page-wrapper">

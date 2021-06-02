@@ -10,8 +10,8 @@ const HeaderComponent = () => {
       <header className="main-header sticky-header">
         <div className="container-fluid clearfix">
           <div className="logo">
-            <a href="index.html">
-              <img src="img/logo_full_small.png" alt="logo personal-hr" />
+            <a href="/">
+              <img src="/img/logo_full_small.png" alt="logo personal-hr" />
             </a>
           </div>
           <nav className="main-menu">
@@ -33,18 +33,21 @@ const HeaderComponent = () => {
                   <a href="/">Home</a>
                 </li>
                 <li>
-                  <a href="over-phr">Over personal HR</a>
+                  <a href="/over-phr">Over personal HR</a>
                 </li>
                 <li className="dropdown">
                   <a href="#">Diensen & kosten</a>
                   <ul>
                     <li>
-                      <a href="diensten-werkgever">Werkgevers / ondernemers</a>
+                      <a href="/diensten/werkgever">Werkgevers / ondernemers</a>
                     </li>
                     <li>
-                      <a href="diensten-werknemers">Werknemers / particulieren</a>
+                      <a href="/diensten/werknemer">Werknemers / particulieren</a>
                     </li>
                   </ul>
+                </li>
+                <li>
+                  <a href="/contact">Contact</a>
                 </li>
               </ul>
             </div>

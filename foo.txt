@@ -1,18 +1,15 @@
 
-Diensten - werkgever:
-
-Diensten - particulier:
-- vaste blok van about pagina
-- Why Choose Us block zonder rechterkant, in het midden
-- Personlijke offerte (contact formulier)
-	- Naam
-	- Email
-	- Tel
-	- Werkgever
-	- Diensten (dropdown + overige)
-        - Vraag
-
 Contact:
 - vaste blok van about pagina
 - Contact pagina overnemen
 
+
+TODO:
+- Logo fixen
+- Contact pagina
+- Styling opruimen
+- Google analytics?
+- Footer Styling
+- Active pagina in menu styling
+- Mobile menu
+- Mobile responsive

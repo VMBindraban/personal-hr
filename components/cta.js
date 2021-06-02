@@ -1,6 +1,6 @@
 const CTA = ({ attributes }) => {
   return (
-    <section className="cta-section" style={{ background: `url('${attributes.cta_image}')` }}>
+    <section className="cta-section" style={{ background: `url('/${attributes.cta_image}')` }}>
       <div className="container">
         <h2>{attributes.cta_title}</h2>
         <div className="link-btn">

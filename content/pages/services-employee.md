@@ -1,7 +1,7 @@
 ---
-page_title: Diensten werkgever
+page_title: Diensten werknemer
 page_description:
-banner_title: Diensten werkgever
+banner_title: Diensten werknemer
 banner_image: upload/2.jpg
 main_title: Waar komt het vandaan?
 main_text:
@@ -16,10 +16,5 @@ main_text2:
   goed en kwaad) door Cicero, geschreven in 45 v.Chr. Dit boek is een verhandeling over de theorie
   der ethiek, erg populair tijdens de renaissance. De eerste regel van Lorem Ipsum, "Lorem ipsum
   dolor sit amet..", komt uit een zin in sectie 1.10.32.'
-
-cta_title:
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
-cta_text: Riscoscan aanvragen
-cta_image: upload/2.jpg
 contact_title: Persoonlijke offerte
 ---
