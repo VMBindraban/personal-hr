@@ -7,7 +7,17 @@ const ContactEmployer = ({ attributes }) => {
         </div>
         <div className="row">
           <div className="col-lg-6 col-md-12 col-xs-12 col-lg-offset-3">
-            <form id="contact_form" name="werkgever-formulier" method="POST" data-netlify="true">
+            <form
+              id="contact_form"
+              name="werkgever-formulier"
+              method="POST"
+              data-netlify="true"
+              netlify-honeypot="bot-field"
+            >
+              <input type="hidden" name="form-name" value="werkgever-formulier" />
+              <div class="hidden">
+                <input name="bot-field" />
+              </div>
               <div className="form-group">
                 <label for="name">Je naam</label>
                 <input
