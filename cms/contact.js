@@ -27,5 +27,40 @@ export default {
       widget: 'image',
     },
     // PAGE
+    {
+      label: 'Contact title',
+      name: 'contact_title',
+      widget: 'string',
+    },
+    {
+      label: 'Contact text',
+      name: 'contact_text',
+      widget: 'text',
+    },
+    {
+      label: 'Address',
+      name: 'contact_address',
+      widget: 'string',
+    },
+    {
+      label: 'Email',
+      name: 'contact_email',
+      widget: 'string',
+    },
+    {
+      label: 'Phone number',
+      name: 'contact_phonenumber',
+      widget: 'string',
+    },
+    {
+      label: 'KVK number',
+      name: 'contact_kvk',
+      widget: 'string',
+    },
+    {
+      label: 'BTW number',
+      name: 'contact_taxnumber',
+      widget: 'string',
+    },
   ],
 };

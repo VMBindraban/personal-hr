@@ -1,9 +1,11 @@
 import BannerComponent from '../components/banner';
+import ContentComponent from '../components/contact';
 
 const ContactPage = ({ attributes }) => {
   return (
     <>
       <BannerComponent attributes={attributes} />
+      <ContentComponent attributes={attributes} />
     </>
   );
 };

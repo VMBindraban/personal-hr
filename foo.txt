@@ -1,16 +1,5 @@
 
-Contact:
-- vaste blok van about pagina
-- Contact pagina overnemen
-
-
 TODO:
-- Logo fixen
-- Contact pagina
-- Styling opruimen
 - Google analytics?
-- Footer Styling
-- Active pagina in menu styling
 - Mobile menu
 - Mobile responsive
-- Favicon

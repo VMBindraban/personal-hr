@@ -37,7 +37,7 @@ const ContactEmployer = ({ attributes }) => {
                   id="form_email"
                   className="form-control"
                   placeholder="Voer je email in"
-                  required=""
+                  required
                 />
               </div>
               <div className="form-group">

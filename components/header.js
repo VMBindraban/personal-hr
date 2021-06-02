@@ -3,15 +3,13 @@ import { useRouter } from 'next/router';
 const HeaderComponent = () => {
   const router = useRouter();
 
-  // TODO: active navigation
-
   return (
     <>
       <header className="main-header sticky-header">
         <div className="container-fluid clearfix">
           <div className="logo">
             <a href="/">
-              <img src="/img/logo_full_small.png" alt="logo personal-hr" />
+              <img src="/img/logo_full_small@2.png" alt="logo personal-hr" height="60" />
             </a>
           </div>
           <nav className="main-menu">
@@ -29,13 +27,19 @@ const HeaderComponent = () => {
             </div>
             <div className="navbar-collapse collapse clearfix">
               <ul className="navigation clearfix">
-                <li className="current">
+                <li className={router.route === '/' ? 'active' : ''}>
                   <a href="/">Home</a>
                 </li>
-                <li>
+                <li className={router.route === '/over-phr' ? 'active' : ''}>
                   <a href="/over-phr">Over personal HR</a>
                 </li>
-                <li className="dropdown">
+                <li
+                  className={
+                    ['/diensten/werkgever', '/diensten/werknemer'].includes(router.route)
+                      ? 'dropdown active'
+                      : 'dropdown'
+                  }
+                >
                   <a href="#">Diensen & kosten</a>
                   <ul>
                     <li>
@@ -46,7 +50,7 @@ const HeaderComponent = () => {
                     </li>
                   </ul>
                 </li>
-                <li>
+                <li className={router.route === '/contact' ? 'active' : ''}>
                   <a href="/contact">Contact</a>
                 </li>
               </ul>
