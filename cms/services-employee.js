@@ -1,5 +1,5 @@
 export default {
-  label: 'Diensten werknember',
+  label: 'Diensten werknemer',
   name: 'services-employee',
   file: 'content/pages/services-employee.md',
   fields: [
