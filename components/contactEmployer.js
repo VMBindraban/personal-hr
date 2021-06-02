@@ -19,7 +19,7 @@ const ContactEmployer = ({ attributes }) => {
                 <input name="bot-field" />
               </div>
               <div className="form-group">
-                <label for="form_name">Je naam</label>
+                <label htmlFor="form_name">Je naam</label>
                 <input
                   type="text"
                   name="name"
@@ -30,7 +30,7 @@ const ContactEmployer = ({ attributes }) => {
                 />
               </div>
               <div className="form-group">
-                <label for="form_email">Email</label>
+                <label htmlFor="form_email">Email</label>
                 <input
                   type="email"
                   name="email"
@@ -41,7 +41,7 @@ const ContactEmployer = ({ attributes }) => {
                 />
               </div>
               <div className="form-group">
-                <label for="form_phone">Telefoon nummer</label>
+                <label htmlFor="form_phone">Telefoon nummer</label>
                 <input
                   type="tel"
                   name="phone"
@@ -52,7 +52,7 @@ const ContactEmployer = ({ attributes }) => {
                 />
               </div>
               <div className="form-group">
-                <label for="form_employees">Aantal werknemers</label>
+                <label htmlFor="form_employees">Aantal werknemers</label>
                 <input
                   type="number"
                   name="amount-employees"
@@ -63,7 +63,7 @@ const ContactEmployer = ({ attributes }) => {
                 />
               </div>
               <div className="form-group">
-                <label for="form_services">Diensten</label>
+                <label htmlFor="form_services">Diensten</label>
                 <select name="services" className="form-control" required id="form_services">
                   <option>Foo</option>
                   <option>Bar</option>
@@ -71,7 +71,7 @@ const ContactEmployer = ({ attributes }) => {
                 </select>
               </div>
               <div className="form-group">
-                <label for="form_info">Aanvullende informatie</label>
+                <label htmlFor="form_info">Aanvullende informatie</label>
                 <textarea
                   name="extra-info"
                   id="form_info"

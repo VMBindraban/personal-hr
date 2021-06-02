@@ -13,3 +13,4 @@ TODO:
 - Active pagina in menu styling
 - Mobile menu
 - Mobile responsive
+- Favicon
