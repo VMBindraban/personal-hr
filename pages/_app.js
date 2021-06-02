@@ -25,6 +25,9 @@ function MyApp({ Component, pageProps }) {
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
         <link rel="manifest" href="/site.webmanifest" />
+
+        <link href="/css/bootstrap.css" rel="stylesheet" />
+        <link href="/css/style.css" rel="stylesheet" />
       </Head>
 
       <div className="page-wrapper">
@@ -35,8 +38,6 @@ function MyApp({ Component, pageProps }) {
         <FooterComponent />
       </div>
 
-      <link href="/css/bootstrap.css" rel="stylesheet" />
-      <link href="/css/style.css" rel="stylesheet" />
       <link href="/css/responsive.css" rel="stylesheet" />
       <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     </>
