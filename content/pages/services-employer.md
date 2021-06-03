@@ -12,7 +12,7 @@ main_text: >-
 main_text2: >-
   Personal Hr bied een divers pakket aan diensten aan. Hierbij kan altijd worden
   gekeken naar welke onderdelen er voor jou als werkgever op dat moment
-  spelen.<br>
+  spelen.<br><br>
 
 
   Voorbeelden van diensten zijn:
@@ -29,7 +29,7 @@ main_text2: >-
 
   Loopbaanbegeleiding;<br>
 
-  Recruitment.
+  Recruitment.<br><br>
    
   Mocht jij ergens tegenaan lopen en staat het niet bij de bovengenoemde voorbeelden? <br>
 
