@@ -20,5 +20,5 @@ main_text2: >
 
 
   Sometimes it is not just business, it is personal. 
-image: upload/7.jpg
+image: upload/20210603_220500.jpeg
 ---
