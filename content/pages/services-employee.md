@@ -3,18 +3,18 @@ page_title: Diensten werknemer
 page_description: null
 banner_title: Diensten werknemer
 banner_image: upload/banner.jpg
-main_title: Waar komt het vandaan?
-main_text: In tegenstelling tot wat algemeen aangenomen wordt is Lorem Ipsum
-  niet zomaar willekeurige tekst. het heeft zijn wortels in een stuk klassieke
-  latijnse literatuur uit 45 v.Chr. en is dus meer dan 2000 jaar oud.
-main_text2: Richard McClintock, een professor latijn aan de Hampden-Sydney
-  College in Virginia, heeft één van de meer obscure latijnse woorden,
-  consectetur, uit een Lorem Ipsum passage opgezocht, en heeft tijdens het
-  zoeken naar het woord in de klassieke literatuur de onverdachte bron ontdekt.
-  Lorem Ipsum komt uit de secties 1.10.32 en 1.10.33 van "de Finibus Bonorum et
-  Malorum" (De uitersten van goed en kwaad) door Cicero, geschreven in 45 v.Chr.
-  Dit boek is een verhandeling over de theorie der ethiek, erg populair tijdens
-  de renaissance. De eerste regel van Lorem Ipsum, "Lorem ipsum dolor sit
-  amet..", komt uit een zin in sectie 1.10.32.
+main_title: Waarmee kan Personal HR jou helpen?
+main_text: >-
+  Ben jij er niet zeker van dat je krijgt waar je recht op heb als
+  werknemer?<br>
+
+  Of wil je dat iemand met je meekijkt bij de stappen in jouw loopbaan of verzuim. Personal HR kijkt naar de situatie en geeft eerlijk advies en een duidelijk stappenplan.
+main_text2: |-
+  CV opbouw en controle,<br>
+  Arbeidscontract uitleg en controle,<br>
+  Ondersteuning bij contact werkgever en UWV,<br>
+  Loopbaan begeleiding,<br>
+  Werkplek onderzoek,<br>
+  Conflict begeleiding.
 contact_title: Persoonlijke offerte
 ---
