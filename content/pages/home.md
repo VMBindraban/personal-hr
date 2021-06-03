@@ -2,7 +2,7 @@
 page_title: Home
 page_description: null
 banner_title: Persoonlijke HR ondersteuning
-banner_image: upload/2.jpg
+banner_image: upload/banner.jpg
 main_title: Wat is Personal HR?
 main_text: >-
   Personal HR biedt ondersteuning aan ondernemers en werknemers op gebied van
