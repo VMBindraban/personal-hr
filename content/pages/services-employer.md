@@ -15,7 +15,7 @@ main_text2: >-
   spelen.<br><br>
 
 
-  Voorbeelden van diensten zijn:
+  Voorbeelden van diensten zijn:<br>
 
   Controleren en maken van arbeidscontracten;<br>
 
