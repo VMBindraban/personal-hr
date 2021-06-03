@@ -8,7 +8,9 @@ main_text: >-
   Ben jij er niet zeker van dat je krijgt waar je recht op heb als
   werknemer?<br>
 
-  Of wil je dat iemand met je meekijkt bij de stappen in jouw loopbaan of verzuim. Personal HR kijkt naar de situatie en geeft eerlijk advies en een duidelijk stappenplan.
+  Of wil je dat iemand met je meekijkt bij de stappen in jouw loopbaan of verzuim. <br>
+
+  Personal HR kijkt naar de situatie en geeft eerlijk advies en een duidelijk stappenplan.
 main_text2: >-
   Personal HR kan je op vele gebieden helpen als het gaat om jouw baan of
   loopbaan. <br>
@@ -34,7 +36,7 @@ main_text2: >-
 
   <br>
 
-  Mocht je ergens tegenaan lopen en staat het hierboven niete vemeld? <br>
+  Mocht je ergens tegenaan lopen en staat het hierboven niet vermeld? <br>
 
   Neem dan contact om te kijken of Personal HR jou kan helpen of kan doorverwijzen naar wie jou wel kan helpen.
 contact_title: Persoonlijke offerte
