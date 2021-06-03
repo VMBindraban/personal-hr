@@ -5,10 +5,10 @@ banner_title: Persoonlijke HR ondersteuning
 banner_image: upload/2.jpg
 main_title: Wat is Personal HR?
 main_text: >-
-  Personal HR bied ondersteuning aan ondernemers en werknemers op gebied van
+  Personal HR biedt ondersteuning aan ondernemers en werknemers op gebied van
   arbeidsvoorwaarden, verzuim, loopbaan en personeelsvoorzieningen.
 
-  Samen met de ondernemer of werknemer zal er gekeken worden naar een passende oplossing.
+  Samen met de ondernemer of werknemer wordt er altijd gekeken naar een passende oplossing.
 section1_icon: business
 section1_title: Administratie en Regelgeving
 section1_text: Personeeldossiers, Contracten opstellen en nakijken & werkplek onderzoeken
