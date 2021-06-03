@@ -8,7 +8,7 @@ main_text: Ik ben Personal HR begonnen omdat ik zag hoeveel risico sommige
   ondernemers (onbewust) lopen op het gebied van personeel. Daarnaast vond ik
   het ook belangrijk dat werknemers om advies kunnen vragen als zij er op dat
   moment niet uitkomen. Maar waar komt Personal HR nou eigenlijk vandaan?
-main_text2: >+
+main_text2: >
   Ik heb voor het HRM vakgebied gekozen omdat het de mogelijkheid geeft om
   duidelijkheid te geven aan werkgevers en werknemers. Bij ondernemers van
   kleinere bedrijven vind ik het leuk om te helpen vanwege de passie in hun
@@ -18,5 +18,7 @@ main_text2: >+
 
   Als HR ben ik voor een gezond balans tussen een werkgever en werknemer. Om die reden wil ik er ook zijn voor de werknemer die vragen heeft over zijn werk, salaris, verzuim of loopbaan.
 
+
+  Sometimes it is not just business, it is personal. 
 image: upload/7.jpg
 ---
