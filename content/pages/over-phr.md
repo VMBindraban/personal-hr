@@ -2,7 +2,7 @@
 page_title: Over PHR
 page_description: null
 banner_title: Over PHR
-banner_image: upload/2.jpg
+banner_image: upload/banner.jpg
 main_title: Personal HR
 main_text: Ik ben Personal HR begonnen omdat ik zag hoeveel risico sommige
   ondernemers (onbewust) lopen op het gebied van personeel. Daarnaast vond ik
