@@ -1,24 +1,21 @@
 ---
 page_title: Diensten werkgever
-page_description:
+page_description: null
 banner_title: Diensten werkgever
 banner_image: upload/2.jpg
-main_title: Waar komt het vandaan?
-main_text:
-  In tegenstelling tot wat algemeen aangenomen wordt is Lorem Ipsum niet zomaar willekeurige tekst.
-  het heeft zijn wortels in een stuk klassieke latijnse literatuur uit 45 v.Chr. en is dus meer dan
-  2000 jaar oud.
-main_text2:
-  'Richard McClintock, een professor latijn aan de Hampden-Sydney College in Virginia, heeft één van
-  de meer obscure latijnse woorden, consectetur, uit een Lorem Ipsum passage opgezocht, en heeft
-  tijdens het zoeken naar het woord in de klassieke literatuur de onverdachte bron ontdekt. Lorem
-  Ipsum komt uit de secties 1.10.32 en 1.10.33 van "de Finibus Bonorum et Malorum" (De uitersten van
-  goed en kwaad) door Cicero, geschreven in 45 v.Chr. Dit boek is een verhandeling over de theorie
-  der ethiek, erg populair tijdens de renaissance. De eerste regel van Lorem Ipsum, "Lorem ipsum
-  dolor sit amet..", komt uit een zin in sectie 1.10.32.'
+main_title: Waarmee zou Personal HR jou kunnen ondersteunen?
+main_text: >-
+  Op gebied van personeel moeten er vaak vele verschillende onderdelen geregeld
+  worden.
 
-cta_title:
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+  Personal HR kan jou helpen van de dagelijkse werkzaamheden tot de zaken die incidenteel voorkomen.
+main_text2: |
+  Controleren en maken van arbeidscontracten;<br>
+  Opzetten en evalueren van regelingen en personeelsverzekeringen;<br>
+  Begeleiden van verzuim bij medewerkers;<br>
+  Werkplek Onderzoeken 
+cta_title: Wil jij zeker weten dat jij geen risico's loopt op het gebied van
+  personeel? Vraag dan nu een gratis risicoscan aan.
 cta_text: Riscoscan aanvragen
 cta_image: upload/2.jpg
 contact_title: Persoonlijke offerte
