@@ -13,10 +13,12 @@ main_text2: >
   duidelijkheid te geven aan werkgevers en werknemers. Bij ondernemers van
   kleinere bedrijven vind ik het leuk om te helpen vanwege de passie in hun
   eigen vakgebied. Op die manier kan ik ervoor zorgen dat ondernemers zich
-  volledig kunnen concentreren op de kern van hun bedrijf.
+  volledig kunnen concentreren op de kern van hun bedrijf.<br>
 
 
-  Als HR ben ik voor een gezond balans tussen een werkgever en werknemer. Om die reden wil ik er ook zijn voor de werknemer die vragen heeft over zijn werk, salaris, verzuim of loopbaan.
+  Als HR ben ik voor een gezond balans tussen een werkgever en werknemer. Om die reden wil ik er ook zijn voor de werknemer die vragen heeft over zijn werk, salaris, verzuim of loopbaan.<br>
+
+  Omdat elk bedrijf en persoon uniek is, zal bij elke situatie gekeken moeten worden welke wet- en regelgeving passend is. bij de cultuur en branche <br>
 
 
   Sometimes it is not just business, it is personal. 
