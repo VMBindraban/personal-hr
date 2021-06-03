@@ -8,12 +8,12 @@ const contentImage = ({ attributes }) => {
         <div className="col-lg-6 col-md-12 col-xs-12">
           {attributes.main_text && (
             <div className="text">
-              <p>{attributes.main_text}</p>
+              <p dangerouslySetInnerHTML={{ __html: attributes.main_text }} />
             </div>
           )}
           {attributes.main_text2 && (
             <div className="content-text">
-              <p>{attributes.main_text2}</p>
+              <p dangerouslySetInnerHTML={{ __html: attributes.main_text2 }} />
             </div>
           )}
         </div>

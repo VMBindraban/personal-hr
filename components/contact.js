@@ -72,7 +72,7 @@ const Contact = ({ attributes }) => {
           <div className="col-lg-6 col-md-12 col-xs-12">
             <div className="right-side">
               <div className="text">
-                <p>{attributes.contact_text}</p>
+                <p dangerouslySetInnerHTML={{ __html: attributes.contact_text }} />
               </div>
               <ul className="contact-info">
                 <li>

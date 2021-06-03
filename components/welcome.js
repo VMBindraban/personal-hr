@@ -4,8 +4,8 @@ const WelcomeComponent = ({ attributes }, hideIcons = false) => {
       <section className="wellcome-section">
         <div className="container">
           <div className="section-title text-center">
-            <h2>{attributes?.main_title || ''}</h2>
-            <p>{attributes?.main_text || ''}</p>
+            <h2>{attributes.main_title}</h2>
+            <p dangerouslySetInnerHTML={{ __html: attributes.main_text }} />
           </div>
           {hideIcons && (
             <div className="row">
