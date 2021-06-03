@@ -17,6 +17,6 @@ main_text2: |
 cta_title: Wil jij zeker weten dat jij geen risico's loopt op het gebied van
   personeel? Vraag dan nu een gratis risicoscan aan.
 cta_text: Riscoscan aanvragen
-cta_image: upload/2.jpg
+cta_image: upload/banner.jpg
 contact_title: Persoonlijke offerte
 ---
