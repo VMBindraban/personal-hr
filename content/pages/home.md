@@ -17,5 +17,5 @@ section2_title: Overleg, Advies & begeleiding
 section2_text: Verzuimbegeleiding, advies op regelingen en Loopbaan/ontwikkeltrajecten
 section3_icon: users
 section3_title: Persoonlijk
-section3_text: Persoonlijke benadering & oplossing op maat
+section3_text: Persoonlijke benadering & oplossingen op maat
 ---
