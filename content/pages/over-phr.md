@@ -15,9 +15,11 @@ main_text2: >
 
   Ik heb de mogelijkheid en kans gehad om te kunnen vragen en leren van verschillende ervaren professionals tijdens mijn studie en carrière. <br>
 
+
   Maar de laatste jaren kwam steeds meer de vraag achterin mijn hoofd wat als je dit niet heb, wat dan? Zo werd het steeds duidelijker wat ik wil bijdrage en waar ik hoop hoe mensen Personal HR zullen gezien en ervaren. <br><br>
    
   Het is de praktische duidelijkheid die HRM vaak kan bieden aan werkgevers en werknemers wat ervoor zorgt dat ik verliefd ben geworden op het vak. Bij ondernemers van bedrijven vind ik het leuk om te helpen vanwege die passie en liefde die zij hebben voor hun eigen vakgebied. Met Personal HR kan ik ervoor zorgen dat ondernemers zich volledig kunnen concentreren op de kern van hun bedrijf. <br><br>
+
 
   Ik ben ook werknemer (geweest) en weet dat het fijn is om soms iemand te hebben waar je om advies kan vragen ook al is het soms een bevestiging. Om die reden wil ik er ook zijn voor de werknemer die vragen heeft over werkomstandigheden, salaris, verzuim of hun loopbaan.<br><br>
 
