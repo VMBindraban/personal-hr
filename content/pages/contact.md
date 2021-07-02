@@ -4,9 +4,11 @@ page_description: null
 banner_title: Contact
 banner_image: upload/banner.jpg
 contact_title: Neem contact op
-contact_text: |-
-  Ben je benieuwd, of wil je meer informatie?
-  Neem dag gerust contact op.
+contact_text: |
+  
+  Ben je benieuwd, of wil je meer informatie?<br>
+  Neem dag gerust contact op en hopelijk kan ik je verder helpen.
+  <br><br>
 contact_address: Omgeving Alkmaar
 contact_email: melissa.franken@personalhr.nl
 contact_phonenumber: 06-23048285
