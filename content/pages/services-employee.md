@@ -11,7 +11,7 @@ main_text: >-
   Of wil je dat iemand met je meekijkt bij de stappen in jouw loopbaan of verzuim. <br>
 
   Personal HR kijkt naar de situatie en geeft eerlijk advies en een duidelijk stappenplan.
-main_text2: >-
+main_text2: >+
   Personal HR kan je op vele gebieden helpen als het gaat om jouw baan of
   loopbaan. <br>
 
@@ -36,8 +36,19 @@ main_text2: >-
 
   <br>
 
+  Op dit moment bied ik de mogelijkheid aan werknemers om voor een klein bedrag per maand voor een jaar vragen te kunnen stellen in deze onderwerpen.
+
+  <br>
+
+  <br>
+
   Mocht je ergens tegenaan lopen en staat het hierboven niet vermeld? <br>
 
   Neem dan contact om te kijken of Personal HR jou kan helpen of kan doorverwijzen naar wie jou wel kan helpen.
+
+  <br>
+
+  <br>
+
 contact_title: Persoonlijke offerte
 ---
