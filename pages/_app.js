@@ -12,6 +12,14 @@ function MyApp({ Component, pageProps }) {
     return <Component {...pageProps} />;
   }
 
+  const collapseMenu = () => {
+    const nav = document.querySelector('.navbar-collapse');
+
+    if (nav) {
+      nav.classList.add("collapse");
+    }
+  }
+
   return (
     <>
       <Head>
@@ -34,7 +42,10 @@ function MyApp({ Component, pageProps }) {
         <div className="header-top"></div>
 
         <HeaderComponent />
-        <Component {...pageProps} />
+        <div onClick={collapseMenu}>
+          <Component {...pageProps} />
+        </div>
+
         <FooterComponent />
       </div>
 

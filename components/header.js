@@ -3,6 +3,14 @@ import { useRouter } from 'next/router';
 const HeaderComponent = () => {
   const router = useRouter();
 
+  const toggleMenu = () => {
+    const nav = document.querySelector('.navbar-collapse');
+
+    if (nav) {
+      nav.classList.toggle("collapse");
+    }
+  }
+
   return (
     <>
       <header className="main-header sticky-header">
@@ -17,8 +25,7 @@ const HeaderComponent = () => {
               <button
                 type="button"
                 className="navbar-toggle"
-                data-toggle="collapse"
-                data-target=".navbar-collapse"
+                onClick={toggleMenu}
               >
                 <span className="icon-bar"></span>
                 <span className="icon-bar"></span>

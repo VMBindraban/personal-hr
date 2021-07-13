@@ -22,7 +22,7 @@
     padding: 0px !important;
   }
   .main-header .main-menu {
-    text-align: left !important;
+    text-align: center !important;
   }
   .main-header .link-button {
     top: 90px !important;
@@ -40,10 +40,6 @@
 }
 
 @media only screen and (max-width: 810px) {
-  .main-header .logo {
-    position: relative !important;
-    text-align: left !important;
-  }
   .main-header .link-button {
     top: 32px !important;
   }
@@ -70,7 +66,7 @@
     display: block;
     text-align: right;
     width: 100%;
-    padding: 12px 0px;
+    padding: 25px 0px;
     z-index: 12;
   }
   .main-menu .navbar-header .navbar-toggle {
@@ -92,6 +88,7 @@
     float: none !important;
     width: 100% !important;
     border: 1px solid #000000;
+    max-width: 350px;
   }
   .main-menu .navbar-collapse > .navigation > li {
     margin: 0px !important;
@@ -141,10 +138,7 @@
     -o-transition: none !important;
     -moz-transition: none !important;
   }
-  .main-menu .navbar-collapse > .navigation > li > ul,
-  .main-menu .navbar-collapse > .navigation > li > ul > li > ul {
-    border-top: 1px solid rgba(255, 255, 255, 1) !important;
-  }
+
   .main-menu .navbar-collapse > .navigation > li,
   .main-menu .navbar-collapse > .navigation > li > ul > li,
   .main-menu .navbar-collapse > .navigation > li > ul > li > ul > li {
@@ -166,19 +160,7 @@
     background: #000000;
     text-align: left;
   }
-  .main-menu .navbar-collapse > .navigation > li > a:hover,
-  .main-menu .navbar-collapse > .navigation > li > a:active,
-  .main-menu .navbar-collapse > .navigation > li > a:focus {
-    background: #1cc9ce;
-  }
-  .main-menu .navbar-collapse > .navigation > li:hover > a,
-  .main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
-  .main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
-  .main-menu .navbar-collapse > .navigation > li.current > a,
-  .main-menu .navbar-collapse > .navigation > li.current-menu-item > a {
-    background: #ffffff;
-    color: #222222 !important;
-  }
+
   .main-menu .navbar-collapse > .navigation li.dropdown:after,
   .main-menu .navigation > li > ul:before {
     display: none !important;
@@ -193,6 +175,19 @@
   .main-menu .navbar-collapse > .navigation li.current .dropdown-btn,
   .main-menu .navbar-collapse > .navigation li:hover .dropdown-btn {
     color: #222222;
+  }
+
+  .main-menu .navigation > li.dropdown:hover > ul {
+    display: block;
+    position: inherit;
+  }
+
+  .main-menu .navigation > li > ul > li {
+    border-bottom: 0;
+  }
+
+  .main-menu .navigation > li > ul > li a {
+    background: #292929 !important;
   }
 }
 
