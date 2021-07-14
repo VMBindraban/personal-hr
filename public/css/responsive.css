@@ -37,6 +37,18 @@
     margin-top: 20px;
     margin-left: 0px !important;
   }
+
+  .main-menu .navbar-collapse > .navigation > li {
+    border-bottom: 1px solid #fff;
+  }
+
+  .main-menu .navbar-collapse > .navigation > li > ul > li {
+    border-bottom: 1px solid #505050;
+  }
+
+  .main-menu .navbar-collapse > .navigation li:last-child {
+    border: none;
+  }
 }
 
 @media only screen and (max-width: 810px) {
@@ -146,9 +158,7 @@
     left: 0px !important;
     visibility: visible !important;
   }
-  .main-menu .navbar-collapse > .navigation > li:first-child {
-    border: none;
-  }
+
   .main-menu .navbar-collapse > .navigation > li > a,
   .main-menu .navbar-collapse > .navigation > li > ul > li > a,
   .main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a {
