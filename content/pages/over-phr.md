@@ -5,9 +5,10 @@ banner_title: Over PHR
 banner_image: upload/banner.jpg
 main_title: Personal HR
 main_text: Mijn naam is Melissa Franken en ik ben Personal HR begonnen omdat ik
-  mensen ,of het nou werkgevers of werknemers zijn, wil helpen. Personal HR is
+  mensen of het nou werkgevers of werknemers zijn, wil helpen. Personal HR is
   het resultaat van jaren adviseren op gebied van verzuim, beleid, wet en
-  regelgeving en mogelijkheden.  Maar de basis van Personal HR ben ikzelf.
+  regelgeving en mogelijkheden. Maar de basis van Personal HR ben ik
+  persoonlijk.
 main_text2: >
   Mijzelf als de basis zien.. ja dat klinkt nogal zelfingenomen maar dat is
   zeker niet het geval. De dienstverlening die ik wil bieden is op basis van
