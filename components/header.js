@@ -7,9 +7,9 @@ const HeaderComponent = () => {
     const nav = document.querySelector('.navbar-collapse');
 
     if (nav) {
-      nav.classList.toggle("collapse");
+      nav.classList.toggle('collapse');
     }
-  }
+  };
 
   return (
     <>
@@ -22,11 +22,7 @@ const HeaderComponent = () => {
           </div>
           <nav className="main-menu">
             <div className="navbar-header">
-              <button
-                type="button"
-                className="navbar-toggle"
-                onClick={toggleMenu}
-              >
+              <button type="button" className="navbar-toggle" onClick={toggleMenu}>
                 <span className="icon-bar"></span>
                 <span className="icon-bar"></span>
                 <span className="icon-bar"></span>
@@ -47,7 +43,7 @@ const HeaderComponent = () => {
                       : 'dropdown'
                   }
                 >
-                  <a href="#">Diensen & kosten</a>
+                  <a href="#">Diensten & kosten</a>
                   <ul>
                     <li>
                       <a href="/diensten/werkgever">Werkgevers / ondernemers</a>
