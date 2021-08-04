@@ -1,5 +1,0 @@
-
-TODO:
-- Google analytics?
-- Mobile menu
-- Mobile responsive
