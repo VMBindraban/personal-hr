@@ -65,14 +65,12 @@ const ContactEmployer = ({ attributes }) => {
               <div className="form-group">
                 <label htmlFor="form_services">Diensten</label>
                 <select name="services" className="form-control" required id="form_services">
-                  <option>Controleren en maken van arbeidscontracten</option>
-                  <option>Opzetten en evalueren van regelingen en personeelsverzekeringen</option>
-                  <option>Begeleiden van verzuim bij medewerkers</option>
-                  <option>Werkplek onderzoeken</option>
-                  <option>Personeelsadministratie</option>
-                  <option>Loopbaanbegeleiding</option>
-                  <option>Recruitment</option>
-                  <option>Risicoscan</option>
+                  <option>CV opbouw en controle</option>
+                  <option>Arbeidscontract uitleg en controle</option>
+                  <option>Ondersteuning bij contact werkgever en UWV</option>
+                  <option>Loopbaan begeleiding</option>
+                  <option>Werkplek onderzoek</option>
+                  <option>Conflict begeleiding</option>
                   <option>Overige</option>
                 </select>
               </div>
