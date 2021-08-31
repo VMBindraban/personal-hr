@@ -12,10 +12,11 @@
   "dependencies": {
     "error": "10.4.0",
     "netlify-cms-app": "^2.15.9",
-    "next": "10.2.1",
+    "next": ">=11.1.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "trim": ">=0.0.3"
+    "trim": ">=0.0.3",
+    "path-parse": ">=1.0.7"
   },
   "devDependencies": {
     "frontmatter-markdown-loader": "^3.6.2"
