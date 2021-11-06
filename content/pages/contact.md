@@ -2,7 +2,7 @@
 page_title: Contact
 page_description: null
 banner_title: Contact
-banner_image: upload/banner.jpg
+banner_image: upload/gradient-6170176_1280.jpg
 contact_title: Neem contact op
 contact_text: |
   
