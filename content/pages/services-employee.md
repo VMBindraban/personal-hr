@@ -2,7 +2,7 @@
 page_title: Diensten werknemer
 page_description: null
 banner_title: Diensten werknemer
-banner_image: upload/banner.jpg
+banner_image: upload/gradient-6170176_1280.jpg
 main_title: Waarmee kan Personal HR jou helpen?
 main_text: >-
   Ben jij er niet zeker van dat je krijgt waar je recht op heb als
