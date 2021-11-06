@@ -2,7 +2,7 @@
 page_title: Over PHR
 page_description: null
 banner_title: Over PHR
-banner_image: upload/banner.jpg
+banner_image: upload/gradient-6170176_1280.jpg
 main_title: Personal HR
 main_text: Mijn naam is Melissa Franken en ik ben Personal HR begonnen omdat ik
   mensen of het nou werkgevers of werknemers zijn, wil helpen. Personal HR is
