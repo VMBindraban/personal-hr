@@ -2,7 +2,7 @@
 page_title: Diensten werkgever
 page_description: null
 banner_title: Diensten werkgever
-banner_image: upload/banner.jpg
+banner_image: upload/gradient-6170176_1280.jpg
 main_title: Waarmee zou Personal HR jou kunnen ondersteunen?
 main_text: >-
   Op gebied van personeel moeten er vaak vele verschillende onderdelen geregeld
