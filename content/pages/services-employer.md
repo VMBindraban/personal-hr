@@ -10,9 +10,10 @@ main_text: >-
 
   Personal HR kan jou helpen van de dagelijkse werkzaamheden tot de zaken die incidenteel voorkomen.
 main_text2: >-
-  Personal Hr bied een divers pakket aan diensten aan. Hierbij kan altijd worden
-  gekeken naar welke onderdelen er voor jou als werkgever op dat moment
-  spelen.<br><br>
+  Personal Hr biedt een divers pakket aan diensten aan. Hierbij kan altijd
+  worden gekeken naar welke onderdelen er voor jou als werkgever op dat moment
+  spelen. Hierin is het streven om de ondersteuning persoonlijk en betaalbaar te
+  houden<br><br>
 
 
   Voorbeelden van diensten zijn:<br>
